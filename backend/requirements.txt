@@ -4,7 +4,8 @@ pypdf
 requests
 openai
 python-multipart
-numpy
+numpy<2
+
 python-dotenv
 
 
