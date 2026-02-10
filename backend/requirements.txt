@@ -2,16 +2,17 @@ fastapi
 uvicorn
 pypdf
 requests
-openai
 python-multipart
-numpy<2
-
 python-dotenv
 
+openai==0.28.1
 
-
+numpy<2
 faiss-cpu==1.7.4
+
 sentence-transformers==2.2.2
+huggingface-hub==0.16.4
+transformers==4.30.2
 
 torch==2.0.1+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
