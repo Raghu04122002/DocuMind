@@ -124,7 +124,7 @@ The frontend will run on `http://localhost:3000`
 ```
 OPENAI_API_KEY=your_openai_api_key
 
-HF_HOME=/tmp/hf (**only for free tier deployment because it make sures that your image size dosent exceed the limit)
+HF_HOME=/tmp/hf (**only for free tier deployment because it make sures that your image size doesn't exceed the limit)
 ```
 
 **Frontend (.env.local):**
