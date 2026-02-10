@@ -37,6 +37,10 @@
 - Node.js 18+
 - OpenAI API Key
 
+### Clone the Repo
+```bash
+git clone "repo url"
+```
 ### Backend Setup
 
 ```bash
